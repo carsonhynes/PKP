@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="carson.space">
+    <serverData>
+      <paths name="carson.space">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/var/www/html/PKP" local="$PROJECT_DIR$" web="/PKP" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
